@@ -1,0 +1,62 @@
+
+CYCS Dog gene description:
+The gene lenght is : 2538 base pairs
+
+Nuleotide Count in gene
+---------------------------
+No. of A's is :647
+No.of T's is : 694
+No. of G's is : 672
+No. of C's is : 525
+The C-G Ratio is : 47.16312056737589%
+
+ No. of exons is : 3
+Lenght of exon region is : 1330 base pairs
+
+Exon 0
+----------------
+No. of A's is : 20
+No.of T's is : 25
+No. of G's is : 48
+No. of C's is : 33
+Lenght of exon is : 126 base pairs
+The C-G Ratio is : 64.29%
+
+Exon 1
+----------------
+No. of A's is : 54
+No.of T's is : 37
+No. of G's is : 53
+No. of C's is : 33
+Lenght of exon is : 177 base pairs
+The C-G Ratio is : 48.59%
+
+Exon 2
+----------------
+No. of A's is : 323
+No.of T's is : 345
+No. of G's is : 202
+No. of C's is : 157
+Lenght of exon is : 1027 base pairs
+The C-G Ratio is : 34.96%
+
+ No. of introns is : 2
+Lenght of intron region is : 1208 base pairs
+
+Intron 0
+----------------
+No. of A's is : 210
+No.of T's is : 252
+No. of G's is : 340
+No. of C's is : 282
+Lenght of intron is : 1084 base pairs
+The C-G Ratio is : 57.38%
+
+Intron 1
+----------------
+No. of A's is : 40
+No.of T's is : 35
+No. of G's is : 29
+No. of C's is : 20
+Lenght of intron is : 124 base pairs
+The C-G Ratio is : 39.52%
