@@ -10,4 +10,4 @@ Taken the Cytochrome C gene of the dog (*Canis familiaris*), the aim is to write
 - CG-ratio of each intron and exon along with entire gene.
 
 
-All this information is then outputted as a summary of the analyzed data in [Summary.txt] (https://github.com/YojanaGadiya/LifeScience-Informatics-Assignment/blob/master/Assignment%201/Summary.txt)
+All this information is then outputted as a summary of the analyzed data in [Summary.txt](https://github.com/YojanaGadiya/LifeScience-Informatics-Assignment/blob/master/Assignment%201/Summary.txt)
