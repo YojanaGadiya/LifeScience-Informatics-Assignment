@@ -1,4 +1,7 @@
-Taken the Cytochrome C gene of the dog (*Canis familiaris*), the aim is to write a program that analyses its Cytochrome C gene (downloaded from Ensembl) and the following analyses are made with the gene :
+# Genomic data analysis
+
+
+Taken the Cytochrome C gene of the dog (*Canis familiaris*), the aim is to write a program that analyses its Cytochrome C gene (downloaded from Ensembl) and the following outcomes of the analysis are made :
 
 - Total length of gene.
 - The number of exons and introns.
@@ -7,4 +10,4 @@ Taken the Cytochrome C gene of the dog (*Canis familiaris*), the aim is to write
 - CG-ratio of each intron and exon along with entire gene.
 
 
-All this information is then outputted as a summary of the ananlyzed data in [Summary.txt] (Summary.txt)
+All this information is then outputted as a summary of the analyzed data in [Summary.txt](https://github.com/YojanaGadiya/LifeScience-Informatics-Assignment/blob/master/Assignment%201/Summary.txt)
