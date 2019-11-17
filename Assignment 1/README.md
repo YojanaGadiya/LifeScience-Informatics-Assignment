@@ -1,3 +1,6 @@
+# Genomic data analysis
+
+
 Taken the Cytochrome C gene of the dog (*Canis familiaris*), the aim is to write a program that analyses its Cytochrome C gene (downloaded from Ensembl) and the following analyses are made with the gene :
 
 - Total length of gene.
